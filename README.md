@@ -4,14 +4,14 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01Dri&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01Dri&theme=monokai)
 
-<h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
+<h2><img src="https://www.reddit.com/r/animegifs/comments/4d8mmb/hype_head_nods_boku_no_hero_academia/" width="30px" height="30px"> Contacts:</h2>
 
 <a id="twitter" href="https://twitter.com/dri_dev">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
  <a id="linkedin" href="https://www.linkedin.com/in/diego-henrique-a38760274/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>t
+</a>
 
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
 
