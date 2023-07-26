@@ -14,6 +14,7 @@
   <img src="https://media1.giphy.com/media/VF0WIRjfwvFERopBFY/giphy.gif?cid=ecf05e47qrjrv4u5b266sakhlw9j11v9mdtoqb54mf29xyzu&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="400" height="300">
 </p>
 
+<h2 align="center">Status GitHub:</h2>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01Dri&theme=monokai">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01Dri&theme=monokai">
