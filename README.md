@@ -4,7 +4,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01Dri&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01Dri&theme=monokai)
 
-<h2><img src="https://www.reddit.com/r/animegifs/comments/4d8mmb/hype_head_nods_boku_no_hero_academia/" width="30px" height="30px"> Contacts:</h2>
+<h2><img src="https://i.imgur.com/Z9bdip0.gif" width="30px" height="30px"> Contacts:</h2>
 
 <a id="twitter" href="https://twitter.com/dri_dev">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
