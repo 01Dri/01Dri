@@ -50,13 +50,13 @@
       </td>
       <td align="center" width="100">
         <a href="#mongodb">
-          <img src="https://example.com/mongodb-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="icon" width="65" height="65" />
         </a>
         <br>MongoDB
       </td>
       <td align="center" width="100">
         <a href="#mysql" >
-          <img src="https://example.com/mysql-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="icon" width="65" height="65" />
         </a>
         <br>MySQL
       </td>
