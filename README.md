@@ -6,7 +6,7 @@
   <img src="assests/borderseperator.gif">
 </p>
 
-<h2 align="center">Bem-vindo!</h2>
+<h2 align="center">Olá!!!</h2>
 
 <p align="center">Meu nome é Diego, sou iniciante na área de desenvolvimento web, com foco no backend utilizando Java/Spring.</p>
 
