@@ -49,6 +49,18 @@
         <br>Java
       </td>
       <td align="center" width="100">
+        <a href="#mongodb">
+          <img src="https://example.com/mongodb-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>MongoDB
+      </td>
+      <td align="center" width="100">
+        <a href="#mysql" >
+          <img src="https://example.com/mysql-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>MySQL
+      </td>
+      <td align="center" width="100">
         <a href="#git" >
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
         </a>
