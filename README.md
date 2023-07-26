@@ -5,6 +5,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01Dri&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01Dri&theme=monokai)
 
 
+<h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
+
 <table align="center">
 
   <tr>
@@ -19,3 +21,6 @@
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Java
+    </tr>
+
+</table>
