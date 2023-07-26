@@ -33,22 +33,22 @@
 
 <h2 align="center">Skills:</h2>
 
-<p align="center" style="margin: 0 auto;">
-  <table>
+<p align="center">
+  <table align="center">
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="100">
         <a href="#macropower-tech">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
         </a>
         <br>Python
       </td>
-      <td align="center" width="96">
+      <td align="center" width="100">
         <a href="#macropower-tech">
           <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
         </a>
         <br>Java
       </td>
-      <td align="center" width="96">
+      <td align="center" width="100">
         <a href="#git" >
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
         </a>
