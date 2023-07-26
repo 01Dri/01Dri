@@ -1,7 +1,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Diego+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Diego Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
-### Olá, eu sou o Diego
+### Bem vindo!
+
+#### Meu nome é Diego, sou iniciante na área de desenvolvimento web, especificamente no backend com Java/Spring.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01Dri&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01Dri&theme=monokai)
 
