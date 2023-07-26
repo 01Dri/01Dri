@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Diego+Welcome+to+my+Profile!" alt="Hey, I'm Diego Welcome to my Profile! animated typed out">
+  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Diego.+Welcome+to+my+Profile!" alt="Hey, I'm Diego. Welcome to my Profile! Animated typed out">
 </p>
 
 <p align="center">
   <img src="assests/borderseperator.gif">
 </p>
 
-<h2 align="center">Bem vindo!</h2>
+<h2 align="center">Bem-vindo!</h2>
 
-<p align="center">Meu nome é Diego, sou iniciante na área de desenvolvimento web, especificamente no backend com Java/Spring.</p>
+<p align="center">Meu nome é Diego, sou iniciante na área de desenvolvimento web, com foco no backend utilizando Java/Spring.</p>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/VF0WIRjfwvFERopBFY/giphy.gif?cid=ecf05e47qrjrv4u5b266sakhlw9j11v9mdtoqb54mf29xyzu&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="400" height="300">
@@ -57,4 +57,3 @@
     </tr>
   </table>
 </p>
-
