@@ -16,8 +16,8 @@
 
 <h2 align="center">Status GitHub:</h2>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01Dri&theme=vue">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01Dri&theme=vue">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01Dri&theme=monokai">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01Dri&theme=monokai">
 </p>
 
 <h2 align="center">Contato:</h2>
