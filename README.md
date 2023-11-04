@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Seja Bem-vindo+ao+meu+Perfil!" alt="Olá, Meu nome é Diego. Seja Bem-vindo ao meu perfil!">
+  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Seja Bem-vindo+ao+meu+Perfil!" alt="Hello, my name is Diego, welcome to my profile!!!">
 </p>
 
 <p align="center">
   <img src="assests/borderseperator.gif">
 </p>
 
-<h2 align="center">Olá!!!</h2>
+<h2 align="center">Hi!!</h2>
 
-<p align="center">Meu nome é Diego, sou iniciante na área de desenvolvimento web, com foco no backend utilizando Java/Spring.</p>
+<p align="center">My name is Diego, and i'm a web developer with a focus on backend development using Java and Spring</p>
+
 
 <p align="center">
   <img src="https://media1.giphy.com/media/VF0WIRjfwvFERopBFY/giphy.gif?cid=ecf05e47qrjrv4u5b266sakhlw9j11v9mdtoqb54mf29xyzu&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="400" height="300">
@@ -20,7 +21,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01Dri&theme=monokai">
 </p>
 
-<h2 align="center">Contato:</h2>
+<h2 align="center">Contact:</h2>
 
 <p align="center">
   <a id="twitter" href="https://twitter.com/dri_dev">
