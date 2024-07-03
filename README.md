@@ -74,6 +74,18 @@
         </a>
         <br>Git
       </td>
+      <td align="center" width="100">
+        <a href="#git" >
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Git" />
+        </a>
+        <br>Docker
+      </td>
+         <td align="center" width="100">
+        <a href="#git" >
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="Git" />
+        </a>
+        <br>AWS
+      </td>
     </tr>
   </table>
 </p>
