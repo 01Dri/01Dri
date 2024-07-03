@@ -70,7 +70,7 @@
       </td>
       <td align="center" width="100">
         <a href="#git" >
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Git" />
         </a>
         <br>Git
       </td>
