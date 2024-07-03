@@ -8,8 +8,8 @@
 
 <h2 align="center">Hi!!</h2>
 
-<p align="center">My name is Diego, and i'm a student of programming, my principal stack is Java and your framework Spring
-<p align="center">I'm currently studying systems analysis and development
+<p align="center">My name is Diego, and i'm a Software Engineer.
+<p align="center">I have experience with back-end REST APIs, automations, and chatbots.
 
 
 <p align="center">
