@@ -51,6 +51,12 @@
         <br>Java
       </td>
       <td align="center" width="100">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>C#
+      </td>
+      <td align="center" width="100">
         <a href="#mongodb">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="icon" width="65" height="65" />
         </a>
@@ -58,7 +64,7 @@
       </td>
       <td align="center" width="100">
         <a href="#mysql" >
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="icon" width="65" height="65" />
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
         </a>
         <br>MySQL
       </td>
