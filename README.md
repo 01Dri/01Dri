@@ -8,13 +8,21 @@
 
 <h2 align="center">Hi!!</h2>
 
-<p align="center">My name is Diego, and i'm a Software Engineer.
-<p align="center">I have experience with back-end REST APIs, automations, and chatbots.
-
+<p align="center">My name is Diego, and I'm a Software Engineer.</p>
+<p align="center">I focus on back-end development using C# and Java, with experience in REST APIs, automations, and chatbots.</p>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/VF0WIRjfwvFERopBFY/giphy.gif?cid=ecf05e47qrjrv4u5b266sakhlw9j11v9mdtoqb54mf29xyzu&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="400" height="300">
 </p>
+
+<h2 align="center">My Open Source Project: Mapper-IA</h2>
+<p align="center">
+  <a href="https://github.com/01Dri/Mapper-IA">Mapper-IA</a>
+</p>
+<p align="center">
+  Mapper-IA is an open-source project aimed at providing a powerful and flexible mapping library for .NET applications. It simplifies the process of object-to-object mapping, making it easier to work with data transfer objects (DTOs) and entity models. Additionally, Mapper-IA can transform files such as PDFs into classes, utilizing artificial intelligence for this process.
+</p>
+
 
 <h2 align="center">Status GitHub:</h2>
 <p align="center">
@@ -50,7 +58,7 @@
         </a>
         <br>C#
       </td>
-         <td align="center" width="100">
+      <td align="center" width="100">
         <a href="#macropower-tech">
           <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
         </a>
@@ -63,26 +71,26 @@
         <br>MongoDB
       </td>
       <td align="center" width="100">
-        <a href="#mysql" >
+        <a href="#mysql">
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
         </a>
         <br>MySQL
       </td>
       <td align="center" width="100">
-        <a href="#git" >
+        <a href="#git">
           <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Git" />
         </a>
         <br>Git
       </td>
       <td align="center" width="100">
-        <a href="#git" >
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Git" />
+        <a href="#docker">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
         </a>
         <br>Docker
       </td>
-         <td align="center" width="100">
-        <a href="#git" >
-          <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="Git" />
+      <td align="center" width="100">
+        <a href="#aws">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
         </a>
         <br>AWS
       </td>
