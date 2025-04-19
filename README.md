@@ -15,12 +15,12 @@
   <img src="https://media1.giphy.com/media/VF0WIRjfwvFERopBFY/giphy.gif?cid=ecf05e47qrjrv4u5b266sakhlw9j11v9mdtoqb54mf29xyzu&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF" width="400" height="300">
 </p>
 
-<h2 align="center">My Open Source Project: Mapper-IA</h2>
+<h2 align="center">My Open Source Project: MapperAI</h2>
 <p align="center">
-  <a href="https://github.com/01Dri/Mapper-IA">Mapper-IA</a>
+  <a href="https://github.com/01Dri/MapperAI">MapperAI</a>
 </p>
 <p align="center">
-  Mapper-IA is an open-source project aimed at providing a powerful and flexible mapping library for .NET applications. It simplifies the process of object-to-object mapping, making it easier to work with data transfer objects (DTOs) and entity models. Additionally, Mapper-IA can transform files such as PDFs into classes, utilizing artificial intelligence for this process.
+  MapperAI is an open-source project aimed at providing a powerful and flexible mapping library for .NET applications. It simplifies the process of object-to-object mapping, making it easier to work with data transfer objects (DTOs) and entity models. Additionally, Mapper-IA can transform files such as PDFs into classes, utilizing artificial intelligence for this process.
 </p>
 
 
